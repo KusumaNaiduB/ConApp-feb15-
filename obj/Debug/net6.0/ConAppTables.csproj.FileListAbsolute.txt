@@ -1,0 +1,14 @@
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.exe
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.deps.json
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.runtimeconfig.json
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.dll
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\bin\Debug\net6.0\ConAppTables.pdb
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.AssemblyInfoInputs.cache
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.AssemblyInfo.cs
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.csproj.CoreCompileInputs.cache
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.dll
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\obj\Debug\net6.0\refint\ConAppTables.dll
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.pdb
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\obj\Debug\net6.0\ConAppTables.genruntimeconfig.cache
+C:\Users\kusum\Desktop\Phase 4\feb 15\ConAppTables\ConAppTables\obj\Debug\net6.0\ref\ConAppTables.dll
